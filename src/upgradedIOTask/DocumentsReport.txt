@@ -1,0 +1,17 @@
+Documento449 ------->>> 	Invalid document start name
+dog666num3391267SF ------->>> 	Invalid document start name
+contrwwact234$$2! ------->>> 	Invalid document start name
+docnum3391267SF ------->>> 	Its a VALID document
+contract8422900 ------->>> 	Its a VALID document
+docnum16445 ------->>> 	Invalid document length
+docnum33RG227 ------->>> 	Invalid document length
+docnum3391267SD*** ------->>> 	Invalid document symbol containment
+co422ntract234$$2! ------->>> 	Invalid document start name
+contract234$$2! ------->>> 	Invalid document symbol containment
+document&&^% ------->>> 	Invalid document start name
+cyt6&&ytntsract8422900 ------->>> 	Invalid document start name
+contract1222906 ------->>> 	Its a VALID document
+docnum3391267SD ------->>> 	Its a VALID document
+docnum33RG22777 ------->>> 	Its a VALID document
+docnum165 ------->>> 	Invalid document length
+Doc23424umento449-- ------->>> 	Invalid document start name
